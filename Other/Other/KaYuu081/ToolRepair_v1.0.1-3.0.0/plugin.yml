@@ -1,0 +1,19 @@
+---
+name: ToolRepair
+version: 1.0.1-3.0.0
+main: ToolRepair\Main
+api:
+- 3.0.0
+load: STARTUP
+author: ArceusMatt
+description: Repair tools & armor.
+website: https://github.com/arceusmatt
+commands:
+  fix:
+    description: Tool & armor repair.
+    permission: fix.cmd
+permissions:
+  fix.cmd:
+    default: op
+    description: Repair tools & armor.
+...

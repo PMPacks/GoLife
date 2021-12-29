@@ -1,0 +1,8 @@
+name: NapThe
+version: 1.0
+api: 3.0.0
+author: KaYuu081
+main: KaYuu081\NapThe\Main
+commands:
+ napthe:
+  description: "Donate"

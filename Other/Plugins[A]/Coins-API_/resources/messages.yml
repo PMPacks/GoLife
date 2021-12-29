@@ -1,0 +1,37 @@
+# {{variable}} is variable
+# It is replaced at run time
+system:
+ error:
+  permission: "You don't have permissions to use this command."
+  invalidsubcommand: "/coin {{subCommand}} does not exist"
+
+view:
+ usage: "Usage: /coin view <account>"
+ type:
+  player: "Player"
+  non-player: "Non-Player"
+
+pay:
+ usage: "Usage: /coin pay <target> <amount>"
+ fail: "Failed to pay"
+ result:
+  sender: "§aBạn đả đưa cho§6 {{target}}: §b{{money}}"
+  target: "§aBạn đả nhận được từ §b{{sender}}:§b {{money}}"
+  
+top:
+ usage: "Usage: /coin top <top>"
+ item: "§a{{rank}}§c :§b {{name}} §6Coin {{money}}"
+ 
+set:
+ usage: "Usage: /coin set <target> <amount>"
+ fail: "Failed to set money"
+ result:
+  console: "[set] Done!"
+  target: "§bCoin§a của bạn đả bị đỏi thành §e{{money}}§a by admin"
+
+grant:
+ usage: "Usage: /coin grant <Player> <Số lượng>"
+ fail: "Failed to grant money"
+ result:
+  console: "[grant] Done!"
+  target: "§cBạn §ađược cộng {{money}}§c by admin"

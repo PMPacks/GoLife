@@ -1,0 +1,15 @@
+name: AutoRS
+main: KaYuu081\MineRS\Main
+version: 0.3.4
+api: [3.0.0]
+description: Tất cả sẽ được làm lại sau 1 thời gian làm việc của server
+commands:
+ mr:
+  description: "Sử dụng cái này nè mày rs nhanh hơn nha thg lozz op!"
+  usage: "/mr"
+  permission: minereset.command.resetall
+ autoreset:
+  description: "Enable / disable autoreset"
+  usage: "/autoreset"
+  permission: amr.autoreset
+  #editor: KaYuu081 (MẮM THƠM)

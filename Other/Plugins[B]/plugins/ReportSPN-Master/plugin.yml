@@ -1,0 +1,12 @@
+name: ReportSPN
+main: ReportUI\SPNVN\Main
+api:
+ - 3.0.0
+ - 3.2.0
+author: BlackPMFury
+version: 4.0
+descriptions: REPORT.
+commands:
+ tocao:
+  description: "Tố cáo ai đó"
+  default: true

@@ -1,0 +1,22 @@
+# ××××× = ××××× = ×××××
+# Implactor Configuration
+# Made by Zadezter
+# ××××× = ××××× = ×××××
+---
+
+# Select a language you'd like to choose for plugin.
+#
+# ××××× ----- ××××× ----- ×××××
+# Available Languages:
+# 1. English
+# 2. Malay
+# 3. Espanish
+# COMING SOON!
+# 1. Tagalog
+# 2. Indonesian
+# 3. Greek
+# ××××× ----- ××××× ----- ×××××
+#
+language: "English"
+
+...

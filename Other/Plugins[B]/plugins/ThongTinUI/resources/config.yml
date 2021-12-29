@@ -1,0 +1,19 @@
+---
+ 
+# If you want to add a paragraph then you only have to do 
+# \n at the text then the text one goes down for example: Test\nTest = Test 
+#                                                                     Test 
+# So if you do this twice (\n\n), there's an empty line between the example Test
+ 
+# Here you can switch the Description
+Title: "• Cách chơi Survival - Luật"
+ 
+# Here you can switch the content
+Content: "§c• Đi xa chỗ spawn survival để sinh tồn\n§c• Không được đánh nhau\n§c• Không đập phá các block ở spawn survival\n§d• Thể loại chơi\n§b• §c Survival theo lạng Plot bạn có thể mine rồi bạn§6 /warp plot §cđể xây nhà của riêng bạn hoặc có bạn mua đất survival bằng lệnh§b ( bạn đứng ở đầu điểm bạn muốn mua gõ§6 /startp§b rồi bạn đến nơi cuối điểm bạn muốn mua gõ §6/endp§b nó sẽ hiện giá tiền nếu bạn thấy họp lí bạn có thể mua nó§6 /land buy§b ) "
+ 
+# Here you can switch the text for the Button
+Button: "§d♦ §aĐã hiểu§d ♦"
+ 
+# Here you can add if the Player joins that then you have to set it to true
+open_at_first_join: "false"
+...

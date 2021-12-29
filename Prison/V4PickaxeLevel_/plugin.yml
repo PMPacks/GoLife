@@ -1,0 +1,13 @@
+name: PickaxeLevel
+main: PickaxeLevel\phuongaz\Main
+api: [3.0.0]
+author: phuongaz
+version: 3.0
+commands:
+ muacup:
+  description: Give Farmer pickaxe to player
+  default: true
+ topfarmer:
+  description: Xếp hạng cấp cúp
+  default: true
+ 

@@ -1,0 +1,11 @@
+name: SETVIPUI
+main: KaYuuSetVip\Main
+api: [3.1.2]
+version: 1.0
+author: MamChamPlu
+
+commands:
+ setvip:
+  description: "§r§c•§b Set VIP to player " 
+ removevip:
+  description: "§r§c•§b Remove VIP from player "

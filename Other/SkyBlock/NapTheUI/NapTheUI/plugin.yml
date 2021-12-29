@@ -1,0 +1,9 @@
+name: PluginNapThe
+main: napthe\Main
+api: [3.1.2]
+version: 1.0
+author: hera
+
+commands:
+ donate:
+  description: "§r§c•§b Nạp thẻ qua "

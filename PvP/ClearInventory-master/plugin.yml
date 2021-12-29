@@ -1,0 +1,13 @@
+name: ClearInventory
+author: iiFlamiinBlaze
+version: 1.0.0
+description: An advanced clear inventory plugin for PocketMine
+main: iiFlamiinBlaze\ClearInventory\ClearInventory
+api: [3.0.0-ALPHA7, 3.0.0-ALPHA8, 3.0.0-ALPHA9, 3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+commands:
+ clearinv:
+  permission: clearinv.command
+  description: "Allows you to clear a player's inventory"
+permissions:
+ clearinv.command:
+  default: op

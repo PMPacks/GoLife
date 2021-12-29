@@ -1,0 +1,12 @@
+name: MuaCoinUI
+main: MuaZcoin\DoiTien\Main
+api:
+ - 3.0.0
+ - 3.2.0
+version: 3.5
+author: BlackPMFury
+description: "Mua Coin và Xu"
+commands:
+ muapoint:
+  description: "Mua Point bằng Xu"
+  default: true

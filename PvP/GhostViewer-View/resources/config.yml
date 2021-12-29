@@ -1,0 +1,24 @@
+# ××××× = ××××× = ×××××
+# GhostViewer Configuration
+# Made by Zadezter
+# ××××× = ××××× = ×××××
+
+---
+
+# Tips:
+# ×INNOCENT× = A player who gets innocent.
+# ×WORLD× = In-game world name.
+# ×KILLER× = A player who being a killer.
+# Display a message when someone is killed by opponents!
+broadcast-ghost-message:
+   display: true
+   message: "§e×KILLER× §fhas slained §c×INNOCENT× §fat §b×WORLD×"
+   
+# Set a resurrecting time while on ghost mode!
+# Recommend: 20
+ressurecting-time: 20
+
+# Teleported to the main spawn after respawned!
+spawn-teleport: true
+
+...

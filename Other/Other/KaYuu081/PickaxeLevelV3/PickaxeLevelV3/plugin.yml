@@ -1,0 +1,12 @@
+name: PickaxeLevel
+main: PickaxeLevel\phuongaz\Main
+api: [3.0.0]
+author: phuongaz
+version: 3.0
+commands:
+ givecup:
+  description: Give minefore pickaxe to player
+  default: op
+  topcup:
+  description: Top pickaxelevel
+  default: true

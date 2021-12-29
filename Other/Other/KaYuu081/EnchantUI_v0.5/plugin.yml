@@ -1,0 +1,13 @@
+---
+name: EnchantUI
+main: UnknownOre\EnchantUI\Main
+version: "0.5"
+api:
+- 3.0.0
+load: POSTWORLD
+author: UnknownOre
+permissions:
+  eshop.command:
+    default: true
+    description: use all EnchantUI Commands
+...

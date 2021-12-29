@@ -1,0 +1,96 @@
+---
+#Dont Change this
+version: "0.4"
+#EnchantUI Version 0.4
+Title: "§b§l«✦» §5Mua Enchant §l§b«✦»"
+Button: "§3{NAME} §a{PRICE}$"
+slider-title: "§5§lCấp §f"
+messages:
+  thanks: ""
+  label: "§6§lBạn Sẽ Trả §f{PRICE}$ §6Mỗi Cấp"
+  not-enough-money: "§c§lBạn Không Có Đủ Tiền Để Mua Enchant!"
+  paid-success: "§6§l Bạn Đã Mua §f{NAME} §6level §f{LEVEL} §6Với Giá §f{PRICE}§6$"
+  hold-item: "§c§lHãy Cầm Đúng Item Mà Bạn Muốn Enchant"
+  no-perm: "§c§l Bạn Không Có Quyền Sử Dụng Lệnh"
+shop:
+- name: §6§l❖ Fire Protection ❖
+  enchantment: fire_protection
+  price: 640
+  max-level: 15
+- name: §6§l❖ Protection ❖
+  enchantment: 1
+  price: 690
+  max-level: 15
+- name: §l§6❖ Projectile Protection ❖
+  enchantment: 4
+  price: 630
+  max-level: 15
+- name: §l§6❖ Thorns ❖
+  enchantment: thorns
+  price: 700
+  max-level: 15
+- name: §l§6❖ Blast Protection ❖
+  enchantment: 3
+  price: 640
+  max-level: 15
+- name: §l§6❖ Respiration ❖
+  enchantment: respiration
+  price: 620
+  max-level: 15
+- name: §l§6❖ Feather Falling ❖
+  enchantment: 2
+  price: 620
+  max-level: 15
+- name: §l§4❖ Sharpness ❖
+  enchantment: sharpness
+  price: 680
+  max-level: 15
+- name: §l§4❖ Knockback ❖
+  enchantment: knockback
+  price: 655
+  max-level: 15
+- name: §l§4❖ Fire Aspect ❖
+  enchantment: 13
+  price: 660
+  max-level: 15
+- name: §l§c❖ Power ❖
+  enchantment: 19
+  price: 670
+  max-level: 15
+- name: §l§c❖ Punch ❖
+  enchantment: 20
+  price: 625
+  max-level: 15
+- name: §l§c❖ Flame ❖
+  enchantment: 21
+  price: 645
+  max-level: 15
+- name: §l§c❖ infinity ❖
+  enchantment: 22
+  price: 630
+  max-level: 15
+- name: §l§b❖ Efficiency ❖
+  enchantment: 15
+  price: 640
+  max-level: 15
+- name: §l§b❖ Silk Touch ❖
+  enchantment: 16
+  price: 590
+  max-level: 15
+- name: §l§b❖ Lure ❖
+  enchantment: 24
+  price: 600
+  max-level: 15
+- name: §l§b❖ Luck Of The Sea ❖
+  enchantment: 23
+  price: 610
+  max-level: 15
+- name: §d§l❖ Unbreaking ❖
+  enchantment: 17
+  price: 630
+  max-level: 15
+- name: §d§l❖ Mending ❖
+  enchantment: 26
+  price: 650
+  max-level: 15
+...

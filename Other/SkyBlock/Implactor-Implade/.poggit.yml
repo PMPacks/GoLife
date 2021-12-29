@@ -1,0 +1,10 @@
+--- 
+# Implactor on Poggit-CI
+# Real authorized, better system!
+branches:
+- Implade
+projects:
+  Implactor:
+    path: "/"
+    icon: "iconPlugin.png"
+...

@@ -1,0 +1,12 @@
+name: MuarankUI
+main: Muarank\CPEVN\Main
+version: 2.0
+api:
+ - 3.0.0
+ - 3.2.0
+description: "Mua Rank"
+commands:
+ muavip:
+  description: "Mua VIP bằng point"
+  usage: /muavip
+  default: true

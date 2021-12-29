@@ -1,0 +1,11 @@
+register-form-title: Đăng kí mật khẩu cấp 2
+register-form-text1: Nhập mật khẩu để đăng kí vào server, rời khỏi ô đăng kí sẽ bị kick.
+register-form-text2: Loại mật khẩu
+register-form-password-field: Mật khẩu ở đây
+register-form-empty-password-field: Bạn chưa đăng kí mật khẩu cấp 2.
+
+login-form-title: Đăng nhập
+login-form-text1: Đăng nhập để vào server. Rời khỏi ô đăng nhập sẽ bị kick
+login-form-text2: Loại khẩu
+login-form-password-field: Mật khẩu ở đây
+login-form-empty-password-field: Bạn chưa nhập mật khẩu cấp 2.

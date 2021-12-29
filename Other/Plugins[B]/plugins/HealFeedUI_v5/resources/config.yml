@@ -1,0 +1,24 @@
+# Cost Heal Feed #
+
+heal.cost: 100
+feed.cost: 100
+
+# For the Exit button #
+
+cancelled: "•§e Bạn đã thoát khỏi menu"
+
+# HEAL Messages #
+
+heal.content: "• §aBạn có chắc chắn muốn mua §bMáu với giá §a$1000 §e không? Vui lòng nhấn Xác nhận nếu bạn muốn mua §bMáu"
+heal.success: "• §bBạn Đã Mua Thành Công Máu Với Giá §6$§a1000"
+heal.no.money: "• §eBạn Không Đủ Tiền Để Mua Máu"
+heal.cancelled: "• §aBạn Đã Hủy Mua Máu"
+
+# FEED Messages #
+
+feed.content: "• §bBạn có chắc chắn muốn mua §ethanh đói với giá§6 $§a1000§b không? Vui lòng nhấn Xác nhận nếu bạn muốn mua §ethanh đói"
+feed.success: "• §bBạn Đã Mua Thành Công Thanh Đói"
+feed.no.money: "• §eBạn Không Đủ Tiền Để Mua Thanh Đói"
+feed.cancelled: "• §aBạn Đã Hủy Mua Thanh Đói"
+
+...

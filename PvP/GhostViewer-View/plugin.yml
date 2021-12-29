@@ -1,0 +1,9 @@
+name: GhostViewer
+version: GV-5.1
+api:
+- 3.0.0
+- 4.0.0
+main: GhostViewer\Loader
+description: Spectate players in ghost mode for a few seconds after death!
+author: Zadezter
+website: https://github.com/ImpladeDeveloped

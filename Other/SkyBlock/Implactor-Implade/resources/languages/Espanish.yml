@@ -1,0 +1,51 @@
+# ××××× = ××××× = ×××××
+# Implactor Language
+# ^^ == ^^ == ^^ == ^^
+# Made by Wolfkid200444
+# Language: Espanish
+# ××××× = ××××× = ×××××
+---
+
+# Consejos:
+# - Use el símbolo "&" para hacer texto en color.
+# - Use "/ n" para crear una nueva línea.
+
+# Mensajes de eventos
+server-whitelisted-message: "&eLo Siento el servidor esta en la lista blanca!"
+join-notice-message: "&bEl servidor esta corriendo en Implactor!"
+clear-lagg-message: "&8&l(&a!&8)&r &aTodas Ententidad a sido borraro!"
+# El nombre del jugador va después de todo esto. - traducido de FreeGamingHere
+join-message-operators: "&7(&6PERSONAL&7) &l&8[&a+&8]&r &a"
+join-message-players: "&l&8[&a+&8]&r &a"
+quit-message-operators: "&7(&6PERSONAL&7) &l&8[&c-&8]&r &c"
+quit-message-players: "&l&8[&c-&8]&r &c"
+death-message: "&cMuévete como el dolor, sé firme como una muerte!"
+
+# Consejos:
+# "death-money-message"
+# - ×INNOCENT× = Un Jugador Inocente.
+# - ×KILLER× = Un Jugador quien mueren y consiguió dinero.
+# - ×WEAPON× = Enseña la arma fel jugador en el mensaje.
+# - ×MONEY× = Enseña los 200$ dollares del jugador.
+death-money-message: "&6×KILLER× &fMato a &c×INNOCENT× &fUsando &b×WEAPON× &fy consiguió &a$×MONEY× &fDinero en el juego!"
+
+fast-chatting-message: "&l&8(&6!&8)&r &6Porfavor espera unos segundos ante de chatear!"
+anti-swearing-message: "&l&8(&6!&8)&r &6Do Hables Malo en el Servidor!"
+anti-advertising-message: "&l&8(&6!&8)&r &6No Envies links en el Chat!"
+anti-caps-message: "&l&8(&6!&8)&r &6No Use'&cCAPS&6' en el servidor!"
+bot-no-hit-damage-message: "&eNo Puedes darmer. Soy invicible!"
+fly-disable-damage-message: "&cTu Modo de volar a sido desactivado porwie sufriste daño!"
+
+# Consejos:
+# "respawn-title" = Mensaje de la pantalla de título
+# "respawn-subtitle" = Mensaje de la pantalla de subtítulos
+respawn-title: "&l&cMURISTE"
+respawn-subtitle: "&fOuch, Que Paso?
+
+# Commandos
+no-permission-message: "&cNo tiene permiso para user este commando!"
+only-command-ingame-message: "Porfavor usar Implactor Commandos en el juego!"
+# Se necesita mucho para poner todo.
+# Próximamente.
+
+...

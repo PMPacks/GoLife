@@ -1,0 +1,19 @@
+name: WingUI
+api: 3.0.0
+version: 1.0
+author: ["MrDinoDuck", "RushToEasy"]
+main: Wings\Main
+description: A PMMP Wings plugins. My
+discord: MrDinoDuck#7585
+commands:
+ canh:
+  description: "Bật menu cánh"
+  default: true
+
+permission:
+ devil.wing:
+  default: op
+  description: Devil Wing Permission
+ angle.wing:
+  default: op
+  description: Angle Wing Permission

@@ -1,0 +1,5 @@
+name: MineLevel
+main: MineLevel\Main
+api: [3.1.2]
+author: KingofPro and Minh1999
+version: 0.1

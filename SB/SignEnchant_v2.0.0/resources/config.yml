@@ -1,0 +1,14 @@
+---
+#Create op SignEnchant
+Create: §cChỉ có chủ tịch giả vờ mới có thể tạo nhé.
+#How to create
+Create2: §a1.linha §eZ E N Z E N §a2.Linha §eEnchants ID §a3.linha §eGiá 4.Linha §eCấp
+#Successfully built
+Create3: §aĐã tạo ra bảng enchant thiểu năng.
+#NoMoney
+Money: §cPhải chắc chắn rằng bạn có đủ tiền để thực hiện giao dịch.
+#Off Sign Enchant
+Off: §cBảng thiểu năng đã bị tắt hoặc gỡ bỏ
+#Off Sign Enchant OP
+Off2: §cBảng thiểu năng đã bị tắt hoặc gỡ bỏ.
+...

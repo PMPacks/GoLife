@@ -1,0 +1,9 @@
+name: NapThe-MamCham
+main: napthe\NapTheUI
+api: [3.1.2]
+version: 0.3
+author: MamChamPlu
+
+commands:
+ napthe:
+  description: "§r§c•§b Nạp thẻ"

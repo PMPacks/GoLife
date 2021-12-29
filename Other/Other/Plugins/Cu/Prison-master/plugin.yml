@@ -1,0 +1,14 @@
+name: Prison
+author: Fycarman
+version: 1.0
+main: Prison\Main
+api: 3.1.2
+depend: [PurePerms, MineReset, EconomyAPI]
+description: "Prison plugin"
+permissions:
+  prison.setrank:
+    description: "Allows to use /setrank command"
+    default: op
+  prison.setprestige:
+    description: "Allows to use /setprestige command"
+    default: op

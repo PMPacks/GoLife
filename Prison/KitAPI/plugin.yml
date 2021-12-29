@@ -1,0 +1,8 @@
+name: KitAPI
+version: 1.0.0
+main: Kit\Main
+api: 3.0.0
+author: VNPixel
+commands:
+ kit:
+  description: ""

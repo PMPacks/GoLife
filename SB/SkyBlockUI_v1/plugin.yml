@@ -1,0 +1,11 @@
+name: SkyBlockUI
+version: 2.0
+main: MamChamPlu\SkyBlockUI
+api: [3.2.1]
+author: DeadOnBushPH
+#edit by MamChamPlu
+#edit by ZonatePixelMC
+
+commands:
+  sb:
+    description: "§4F§6O§eS§cV§eN§f-§aSky§bBlock"

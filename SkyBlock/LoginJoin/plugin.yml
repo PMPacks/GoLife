@@ -1,0 +1,8 @@
+name: LoginJoin
+main: KaYuu081\Login
+api: [3.0.0, 3.0.2, 4.0.0]
+version: 1.0
+author: KaYuu081
+commands:
+   login:
+   description: Login To Game

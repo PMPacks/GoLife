@@ -1,0 +1,89 @@
+---
+datetime-format: "H:i:s"
+Motd:
+  update-timeout: 1
+  custom: true
+  message: "§6§lSkyblock§r-§l§6GO§cE "
+OutdatedClient:
+  custom: true
+  message: "&cYour MCPE client is outdated!"
+OutdatedServer:
+  custom: true
+  message: "&cOops! Server outdated!"
+WhitelistedServer:
+  custom: true
+  message: "&c&o Bảo Trì!!"
+FullServer:
+  custom: true
+  message: "&e{PLAYER}&b, Server Đã Đầy &c[{TOTALPLAYERS}/{MAXPLAYERS}]&b!\n&l&dTry Hẹn Dịp Khác :)"
+FirstJoin:
+  enable: true
+  message: "&c[§9+§c] &a{PLAYER}&9 Đã Vào Game Khoảng Thời Gian Gần Đây."
+Join:
+  hide: false
+  custom: true
+  message: "&c[§9+§c] &a{PLAYER}&9 Đã Gia Nhập Server,Chơi Vui Vẻ."
+Quit:
+  hide: false
+  custom: true
+  message: "&c[§a-§c] &a{PLAYER}&9 Đã Rời Khỏi Rồi, §2Sớm Quay Lại Nha Bạn"
+WorldChange:
+  enable: true
+  message: "&c[§a+§c] &a{PLAYER}&9 Đã Lượn Từ &a{ORIGIN}&9 Đến &d{TARGET}"
+Death:
+  hide: false
+  custom: true
+  message: "§c[§a+§c]&a{PLAYER} §9Chết Ngu Là Đây"
+  death-contact-message:
+    hide: false
+    custom: true
+    message: "&cOops! {PLAYER} Bị Kẹt {BLOCK}"
+  kill-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Đã Bị Tử Vong Tại Chỗ Bởi &c{KILLER}"
+  death-projectile-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Bị Bắn Tới Chết Bởi {KILLER} Với Vũ Khí Là §1Tên"
+  death-suffocation-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} Tự Chôn Thân Vì Chết Đuối"
+  death-fall-message:
+    hide: false
+    custom: true
+    message: "§c[§a+§c]&a{PLAYER} §9Vĩnh Biệt Trái Đất"
+  death-fire-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Không Có Lời Diễn Tả Cái Chết Này"
+  death-on-fire-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER}§9 Chết Cháy vì Chơi Ngu"
+  death-lava-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Đã Biến Thành Thịt Nướng Trong lava"
+  death-drowning-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Kiểu Chết Khó Nói"
+  death-explosion-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER}§9Nổ Banh Zú"
+  death-void-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Chết Ở Độ Cao Không Xác Định"
+  death-suicide-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER} §9Tự Chôn Sông Bản Thân"
+  death-magic-message:
+    hide: false
+    custom: true
+    message: "§c[§9+§c]&a{PLAYER}§9 Chết Bởi Vật Thể Khủng Khiếp"
+...

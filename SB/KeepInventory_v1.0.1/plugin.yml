@@ -1,0 +1,6 @@
+name: KeepInventory
+main: KeepInventory\Main
+version: 1.0.1
+api: [3.2.3]
+description: "Giúp Bạn Chết Không Mất Tài Sản"
+website: https://www.pizyds.com/

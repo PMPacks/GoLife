@@ -1,0 +1,9 @@
+name: HealFeedUI
+version: 5.0
+main: HealFeedUI\Main
+api: [3.0.0, 4.0.0]
+author: SableIamNoob
+
+commands:
+  hfui:
+    description: "Cửa Hàng Bán Thanh Máu Và Thanh Đói"

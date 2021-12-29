@@ -1,0 +1,9 @@
+--- 
+# GhostViewer on Poggit-CI.
+# Spectate players in few seconds after death.
+branches:
+- View
+projects:
+  GhostViewer:
+    path: "/"
+...

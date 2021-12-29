@@ -1,0 +1,16 @@
+name: TimeGroup
+main: BlaztMCPE\TimeGroup\Main
+api:
+    - 3.0.1
+author: SrFelipeTM
+version: 1.5
+commands:
+    timegroup:
+        description: Set Time Rank
+        permission: timegroup.setar
+    ranktime:
+        description: Set Time Rank UI
+        permission: timegroup.setar
+permissions:
+    timegroup.setar:
+        default: op

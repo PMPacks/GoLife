@@ -1,0 +1,9 @@
+name: MuaRank
+api: 3.0.0
+version: 1.0
+author: MrDinoDuck
+main: MuaRank\Main
+commands:
+ muarank:
+  description: Mua Rank bằng Points
+  default: true

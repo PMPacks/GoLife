@@ -1,0 +1,9 @@
+name: CustomItem
+main: CustomItem\Main
+version: 1.0.0-NCD
+api: 3.0.0
+commands:
+ setitemlore:
+  description: "Đổi Tên Vật Phẩm"
+ setitemname:
+  description: "Tạo Lore Vật Phẩm"

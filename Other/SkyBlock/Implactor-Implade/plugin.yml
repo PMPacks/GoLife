@@ -1,0 +1,109 @@
+name: Implactor
+version: IR-1.7.1
+api:
+- 3.0.0
+- 4.0.0
+main: Implactor\Implade
+description: A classic plugin, more added authorized features to here!
+author: Zadezter
+website: https://github.com/ImpladeDeveloped
+
+commands:
+    bot:
+        description: Spawn the bot human at your coordinates! (FormAPI required)
+        permission: implactor.bot
+    icast:
+        description: Broadcast your message to all online players!
+        permission: implactor.broadcast
+    ibook:
+        description: Get a simple book of Implactor via simple command!
+        permission: implactor.book
+    vision:
+        description: Open a vision menu UI! (FormAPI required)
+        permission: implactor.vision
+    pvisible:
+        description: Open the player visibility menu UI! (FormAPI required)
+        permission: implactor.playervisibility
+    ihelp:
+         description: Look all Implactor command list available!
+         permission: implactor.command.help
+    iabout:
+         description: Take a look about Implactor plugin!
+         permission: implactor.command.about
+    wild:
+         description: Teleport to random spot of wilderness!
+         permission: implactor.wild
+    ping:
+         description: Ping your connection in-game server!
+         permission: implactor.ping
+    gms:
+         description: Change the gamemode to Survival!
+         permission: implactor.gamemode
+    gmc:
+         description: Change the gamemode to Creative!
+         permission: implactor.gamemode
+    gma:
+         description: Change the gamemode to Adventure!
+         permission: implactor.gamemode
+    gmsc:
+         description: Change the gamemode to Spectator!
+         permission: implactor.gamemode
+    soccer:
+         description: Spawn the soccer ball with coordinates!
+         permission: implactor.soccer
+    clearinv:
+         description: Clear all items from inventory!
+         permission: implactor.clear
+    cleararmor:
+         description: Clear armours from own characters!
+         permission: implactor.clear
+    rainbow:
+         description: Open the rainbow armor menu UI! (FormAPI required)
+         permission: implactor.rainbow
+    clearbot:
+         description: Clear all spawned bot humans! (FormAPI required)
+         permission: implactor.bot
+         
+permissions:
+    implactor.*:
+     description: "Allow operators get access to all Implactor commands"
+     default: op
+    implactor.wild:
+     description: "Allow players to random teleporting to wilderness"
+     default: true
+    implactor.ping:
+     description: "Allow players to ping their connection in-game server"
+     default: true
+    implactor.playervisibility:
+     description: "Allow players to open the player visibility menu UI"
+     default: true
+    implactor.bot:
+     description: "Allow operators to spawn their own bot human"
+     default: op
+    implactor.broadcast:
+     description: "Allow operators to broadcast their messages to all online players"
+     default: op
+    implactor.book:
+     description: "Allow players to get a book with a command"
+     default: true
+    implactor.command.about:
+     description: "Allow players to see about Implactor plugin"
+     default: true
+    implactor.command.help:
+     description: "Allow players to see the command list"
+     default: true
+    implactor.vision:
+     description: "Allow operators to open the vision menu UI"
+     default: op
+    implactor.gamemode:
+     description: "Allow operators to change their gamemodes in-game server"
+     default: op
+    implactor.soccer:
+     description: "Allow operators to spawn their soccer ball"
+     default: op
+    implactor.clear:
+     description: "Allow operators to clear their items from inventory and armors"
+     default: op
+    implactor.rainbow:
+     description: "Allow operators to open the rainbow armor menu UI"
+     default: op

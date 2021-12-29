@@ -1,0 +1,10 @@
+name: DropEklentisi
+version: 1.0
+main: SupplyCrates\Main
+api: [3.8.2]
+author: lTooLl
+
+commands:
+ drop:
+  permission: crate.use
+  description: Hediyenizi Getirir

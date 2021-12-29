@@ -1,0 +1,160 @@
+#The prison-relative worlds
+worlds:
+- "a"
+- "e"
+#Message sent when a player tries to use a prison-related command outside the prison world.
+not-in-prison-world: "§bBạn Đang Trong Vùng Không Tuộc Vè Prison, Bạn Không Có Quyền Dùng Lệnh."
+#The default tag for a player who doesn't have any prestige
+no-prestige-tag: ""
+#The message displayed when a player tries to rankup but he doesn't have enough money. Use {money} to get the missing money to rankup.
+not-enough-money: "§eBạn Không Đủ Tiền Để Nâng Bậc. Bạn Cần {money} Để Có Thể Nâng Bậc."
+#The message displayed when a player rankups. Use {rank} to get the player's new rank
+rankup-message: "§bXin Chúc Mừng! Bậc Mới Của Bạn Là §e{rank}"
+#The message sent to all the players on the server when a player rankups. Use {name} to get the player's name, and {rank} to get the new rank.
+rankup-broadcast: "§e{name} Đã Lên Bậc §4{rank}"
+#Set to true to reset player's money on prestige, otherwise set to false
+reset-money-on-prestige: true
+#The message sent to warn the player about the money reset on prestige
+reset-money-message: "§bTất Cả Tiền Của Bạn Đã Thủ Tiêu!"
+#The message displayed when a player prestiges. Use {prestige} to get the player's prestige
+prestige-message: "§2Rank Bất Bại Được Nâng Cấp! You Đang Đang Là §4{prestige}"
+#The message sent to all the players on the server when a player prestiges. Use {name} to get the player's name, and {prestige} to get the new prestige.
+prestige-broadcast: "§2{name} Sẽ Là §4{prestige}"
+#The message sent to the player after /sell command is issued. Use {money} to get the amount of money received.
+money-gained: "§bBạn Thu Được Số Tiền Là §e{money}"
+#The permission standard for every rank to set when a player rankups. Use {rank} to get the new rank.
+permission: "simplewarp.mine.{rank}"
+#The base multiplier value (default: 1.0)
+multiplier-base: 1.0
+#Set to true to increase the multiplier when an user prestiges, else to false
+multiplier-increment-on-prestige: true
+#The increase of the multiplier for every prestige. Default: 0.5
+multiplier-increase: 0.5
+#The message sent when a player doesn't have permissions to run a command. Use {command} to get the command he typed.
+no-permission-message: "§4Không Có Uqyeenf Sử Dụng Lệnh {command}."
+#The format of the message sent in the chat. Use {prestige} to get the player's prestige, {rank} to get the player's rank and
+#{default format} to get the default chat format. Note: if you use PureChat, {default format} will use PureChat's format
+chat-format: "§b[§e{prestige}§b]§b[•§f{rank}§b•§b] §r{default format}"
+#The message sent when a player uses /mystatus command. Use {rank} to get the player's rank, {prestige} to get the player's prestige,
+#{next rank} to get the player's next rank, {next prestige} to get the player's next prestige, and {money missing} to get the money missing to next rank/prestige.
+mystatus-message: "§2Trạng Thái:\n§6Rank: {rank}\nPrestige: {prestige}\nNext rank: {next rank}\nNext prestige: {next prestige}\nMoney missing: {money missing}"
+#List of all prison ranks with relative name and rankup cost, you can add as many ranks as you want
+ranks:
+  "A": 0
+  "B": 9000
+  "C": 15000
+  "D": 25000
+  "E": 60000
+  "F": 93000
+  "G": 140000
+  "H": 180000
+  "I": 200000
+  "J": 230000
+  "K": 260000
+  "L": 290000
+  "M": 340000
+  "N": 400000
+  "O": 460000
+  "P": 520000
+  "Q": 590000
+  "R": 600000
+  "S": 900000
+  "T": 1300000
+  "U": 1600000
+  "V": 2600000
+  "W": 3900000
+  "Y": 4800000
+  "Z": 8000000
+#The list of all prestiges with relative name and cost, you can add as many prestiges as you want
+prestiges:
+  "ZZ": 9000000
+  "ZZZ": 10000000
+  "ZZZ+": 20000000
+  "ZZZ+1": 30000000
+  "ZZZ+2": 40000000
+  "ZZZ+3": 50000000
+  "ZZZ+4": 60000000
+  "ZZZ+5": 70000000
+  "ZZZ+6": 80000000
+  "ZZZ+7": 90000000
+  "ZZZ+8": 100000000
+  "ZZZ+9": 130000000
+  "ZZZ+9": 160000000
+  "BESTMINER": 3000000000
+#The selling cost of every block/item. Note: the price is relative to 1 block/item. Format: "id:meta": selling cost
+blocks:
+  "1:0": 5
+  "4:0": 5
+  "14:0": 5
+  "17:0": 3.5
+  "1:0": 3
+  "4:0": 3.6
+  "73:0": 3.5
+  "76:0": 3.9
+  "56:0": 15
+  "57:0": 18
+  "14:0": 3
+  "15:0": 3
+  "16:0": 3.8
+  "21:0": 3.5
+  "22:0": 3.8
+  "5:0": 3.4
+  "3:0": 3.6
+  "2:0": 3.5
+  "41:0": 23.9
+  "42:0": 24.6
+  "44:0": 3.8
+  "67:0": 3.4
+  "78:0": 3.7
+  "98:0": 3.8
+  "102:0": 3.6
+  "103:0": 3.5
+  "155:0": 3.8
+  "156:0": 3.7
+  "245:0": 3.5
+  "53:0": 3.5
+  "20:0": 3.8
+  "112:0": 3.9
+  "108:0": 3.8
+  "87:0": 3.7
+  "114:0": 3.9
+  "217:0": 3.9
+  "173:0": 3.8
+  "20:5": 3
+  "18:4": 1.2
+  "174:0": 3
+  "80:0": 3.7
+  "133:0": 30
+  "264:0": 5
+  "265:0": 4
+  "266:0": 3
+  "263:0": 3.8
+  "263:1": 3.8
+  "388:0": 6
+  "152:0": 12
+  "49:0": 5
+  "91:0": 4
+  "48:0": 5
+  "139:1": 4
+  "331:0": 1.1
+  "162:0": 2
+  "236:0": 5
+  "206:0": 2.3
+  "121:0": 2.3
+  "12:1": 2
+  "179:2": 1
+  "179:1": 1.2
+  "179:": 3
+  "5:1": 3
+  "5:2": 3
+  "5:3": 3
+  "5:4": 3
+  "5:5": 3
+  "168:0": 2.2
+  "168:1": 1.6
+  "168:2": 1.3
+  "351:4": 2.5
+  "112:0": 5
+  "155:0": 5
+  "168:0": 5
+  "170:0": 5

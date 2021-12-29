@@ -1,0 +1,12 @@
+name: ReviewComment
+version: 1.0
+main: KaYuu081\Rate\Main
+api: 3.0.0
+author: KaYuu081
+commands:
+  rate:
+    description: "Đánh giá nhận xét "
+    default: true
+  adrate:
+    description: "Admin Rate"
+    default: op    

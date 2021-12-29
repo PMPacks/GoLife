@@ -1,0 +1,12 @@
+name: MuaXU-UI
+main: KaYuu081\DoiXu\Main
+api:
+ - 3.0.0
+ - 3.2.0
+version: 1.0
+author: KaYuu081
+description: "Mua Xu"
+commands:
+ muaxu:
+  description: "Mua Xu Bằng Point"
+  default: true

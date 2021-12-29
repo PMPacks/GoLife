@@ -1,0 +1,9 @@
+name: AcidIslandUI
+version: 2.0
+main: AcidIslandUI\Main
+api: [3.0.0]
+author: PhongDzVCL
+
+commands:
+  hethong:
+    description: "Mở Giao Diện Hệ Thống"

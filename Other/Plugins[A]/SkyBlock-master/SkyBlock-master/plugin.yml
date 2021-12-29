@@ -1,0 +1,7 @@
+name: SkyBlock
+description: A powerful core for SkyBlock servers
+author: GiantQuartz
+website: twitter.com/GiantQuartz
+main: SkyBlock\SkyBlock
+version: 1.0.0
+api: [3.0.0]

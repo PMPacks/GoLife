@@ -1,0 +1,17 @@
+# Cost Heal Feed #
+
+heal.cost: 0
+
+# For the Exit button #
+
+cancelled: "•§e Bạn đã thoát khỏi menu"
+
+# HEAL Messages #
+
+heal.content: "• §aBạn Có Muốn Nạp Đầy Năng Lượng?"
+heal.success: "• §bBạn Đã Nạp Đầy Năng Lượng"
+heal.no.money: ""
+heal.cancelled: "• §aBạn Đã Hủy"
+# FEED Messages #
+
+...

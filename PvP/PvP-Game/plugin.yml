@@ -1,0 +1,28 @@
+name: PvP-Game
+api: 3.0.0
+version: 1.1.0
+main: skywars\SkyWars
+author: MamChannel
+description: PvP-Game Plugin
+website: https://github.com/GamakCZ/SkyWars
+
+permissions:
+  pvp.cmd:
+    description: Permission to all SkyWars commands
+    default: op
+    children:
+      pvp.cmd.help:
+        description: Permission for /pvp help
+        default: op
+      pvp.cmd.create:
+        description: Permission for /pvp create
+        default: op
+      pvp.cmd.remove:
+        description: Permission for /pvp remove
+        default: op
+      pvp.cmd.set:
+        description: Permission for /pvp set
+        default: op
+      pvp.cmd.arenas:
+        description: Permission for /pvp arenas
+        default: op

@@ -1,0 +1,35 @@
+message-version: 5
+Titles:
+  Items: "• §e§lItems" # Title on the Items Section                    (All of these three things can have colors using the "§" Symbol!)
+  Amount: "• §e§lAmount" # Title on the Buying area with Sliders and Things!
+
+
+Messages:
+  Survival: "You must Be in Survival Mode to use the Shop!" # Message for when player is in creative and shop is set to survival only
+  ExitButton: "§c§lBACK" # Button for Item Category
+  Category_ExitButton: "§c§lEXIT" # Button for Exiting Plugin!
+  Input: "§e§lAmount" # The Words above the Input Amount!
+  # You can use {price here now!}
+  Each: "§6{price} §exu §a1§e cái" # Signs for the Buttons like Steak 4($ Each) that is the part it changes
+
+  # You can add {sell} here For Showing the Sell Price of the Item.
+  BuySell: "§c• §eBuy§b/§bSell§c •" # The words next to the Toggle Switch
+
+  # You can Also add {sell} to here if you prefer it in the message up top.
+  Information: "§e§lMón hàng §6{item} §eđược bán với giá §6{cost} xu mỗi cái \n• §e§l Bạn Có Đồng ý?"
+  ## You can use {amount}, {item} and {cost} here.
+  Paid_for: "§eBạn đã mua §6{item} §b| §eSố lượng: §6{amount} §b| §eGiá tiền: §6{cost}!"
+  ## You can use {amount}, {item}, {cost}, and {missing} here.
+  Not_enough_money: "§eBạn không đủ tiền cho món hàng §6{item} §6| §eSố lượng: §6{amount} §b| §eGiá tiền: §6{cost} <=> §eBởi vì bạn thiếu§6 {missing}"
+  Not_enough_money_command: "§c Bạn không đủ tiể để mua lệnh đó ?"
+  Paid: "§eBạn đã bán§b: §6{item} §b|§eSố lượng§b: §6{amount} §b|§eThu được§b: §6{pay}"
+  Not_enough_items: "§eBạn đã bán §b| Vật phẩm: §6{name} §b| §eSố lượng §6{amount} §b|§eThu được§b: §6{pay} §b| §eNhưng thất bại§b:§c KHÔNG ĐỦ VẬT PHẨM "
+  Thanks: "§f• §e§lThank you for Using the Shop! §f•" # Message sent on Item Buy!
+  Thanks2: "§f• §e§lThank you for visiting the Shop! §f•" #Message sent on Shop Close!
+  cmd_confirm: "§e§lBạn có chắc chắn muốn mua Lệnh này ?"
+  yes: "§f• §e§lYES §f•"
+  no: "§f• §c§lNO §f•"
+  command_buy_cancel: "§e§lYou canceled the Transaction!"
+  NoPermission: "§cError: §7You don't have Permission to Use that Shop!"
+  ShopError: "§cError: §7That Shop Does Not exist!"
+  BannedinWorld: "§cError: §7That Command Has Been banned in this World"

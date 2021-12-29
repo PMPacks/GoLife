@@ -1,0 +1,14 @@
+Title: §c⚡§eA N G L E§6 S H O P§c⚡
+# If True the command only works when in Survival
+Survival: true
+messages:
+  # you can use {money}, {cost], {amount}, {name}, and {item}!
+  paid-for: "§eBạn đã mua §6{item} §b| §eSố lượng: §6{amount} §b| §eGiá tiền: §6{cost}!"
+  not-enough-money: "§eBạn không đủ tiền cho món hàng §6{name} §6| §eSố lượng: §6{amount} §b| §eGiá tiền: §6{cost} <=> §eBởi vì bạn thiếu§6 {missing} ."
+  money: "§l§eTiền của bạn: "
+  money-recieved: "§eBạn đã nhận §6{money} §etừ món hàng §6{name}"
+  not-enough-items: "§eBạn không có đủ món hàng để bán §b| Vật phẩm: §6{name} §b| §eSố lượng §6{amount}"
+  how-many: "§eBao nhiêu"
+  how-many2: " §emà bạn §athích?"
+  thanks: "§bCảm ơn đã ủng hộ cho :"
+  Survival: "Bạn phải là người chơi thật sự!"

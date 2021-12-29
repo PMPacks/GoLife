@@ -1,0 +1,13 @@
+name: MUAVIP
+version: 1.0
+api:
+ - 3.0.0
+ - 3.0.1
+ - 3.1.1
+main: Vip\Main
+author: Phuongaz
+Description: "Mua Vip"
+commands:
+ buyvip:
+  description: "Mua Vip"
+  Default: true

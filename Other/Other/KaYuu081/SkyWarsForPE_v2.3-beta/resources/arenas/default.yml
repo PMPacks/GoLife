@@ -1,0 +1,151 @@
+###########################################################################################
+# This is a YML file. Be careful when editing. Check your edits in a YAML checker like    #
+# the one at http://yaml-online-parser.appspot.com                                        #
+###########################################################################################
+---
+# You can disable this arena by setting this to false
+enabled: false
+# Pick your own arena name.
+arena-name: "Beast"
+
+# The game sign section
+signs:
+    # These are the coordinates for your
+    # Join sign, including the world name
+    join_sign_x: 89
+    join_sign_y: 78
+    join_sign_z: -487
+    join_sign_world: "world"
+    # To enable the status sign
+    # Please ensure that this will be enabled
+    # Otherwise the sign wont tick
+    enable_status: true
+    #status lines
+    #variables:
+    #   &a &b &c = you can use color with "&"
+    #   %alive = amount of in-game players
+    #   %dead = amount of dead players
+    #   %status = game status
+    #   %world = world name of arena
+    #   %max = max players per arena
+    #   %name = The name of this arena as 'arena-name'
+    status_line_1: "&8[&cSkyWars&8]"
+    status_line_2: "&a%name"
+    status_line_3: "&7Players: &2%alive&3/&2%max"
+    status_line_4: "&6Click to join!"
+
+    # Sign will update every 'x" seconds
+    # The 'x' is depends on this section.
+    # This effects the client connections.
+    sign_update_time: 10
+    #returns player to main level/lobby
+    #world is same like arena_world
+    return_sign_x: 566
+    return_sign_y: 57
+    return_sign_z: 890
+
+# The chest configuration config
+chest:
+    # You can set either want to refill
+    # The chest arena after 'refill_rate' or
+    # Not
+    refill: true
+    # Refill rate will depends on the arena
+    # Time. The plugin wont check this if your
+    # Arena time is above this refill rate
+    refill_rate: "240"
+
+# The arena section
+arena:
+    # Arena game location
+    # Make sure you put the name correctly!
+    arena_world: "SkyWarsForPE"
+    # The spectator spawn
+    # No level were given here because the
+    # Spectator usually be summon at 'arena_world"
+    spec_spawn_x: 320
+    spec_spawn_y: 50
+    spec_spawn_z: 32
+    # The Grace timer
+    # This can avoid the player to be killed too
+    # Soon, when falling from spawn pedestals
+    grace_time: 5
+    # Spectator mode
+    # You can have spectators in the arena
+    # Otherwise set this to false
+    spectator_mode: true
+    # Daytime cycle
+    # This 'Daytime Cycle' can determinate
+    # If you want the arena to 'tick' the level
+    # Or not. Set to true if you want to 'tick' the level.
+    # USE-ONLY: (true / day / night / [ticks])
+    time: "day"
+    #coin rewards put number of money
+    money_reward: 20
+    # Finish message level / world
+    # ex: world,SkyWars,{{YOUR_MAIN_WORLD}}
+    # You can use " , " 
+    finish_msg_levels: "world, SkyWars, lobby"
+    # Start when the arena is full
+    # for me i will do `true`
+    start_when_full: true
+    #max players in arena
+    max_players: 12
+    #max VIP(src) in arena
+    #max_players_VIP: 12
+    #min player in arena
+    min_players: 2
+    #Max game time
+    max_game_time: 390
+    #starting time (seconds)
+    starting_time: 60
+    #spawn positions in arena
+    spawn_positions:
+        spawn1:
+          - 127
+          - 56
+          - 128
+        spawn2:
+          - 130
+          - 56
+          - 129
+        spawn3:
+          - 129
+          - 56
+          - 126
+        spawn4:
+          - 128
+          - 57
+          - 125
+        spawn5:
+          - 128
+          - 57
+          - 125
+        spawn6:
+          - 122
+          - 57
+          - 126
+        spawn7:
+          - 122
+          - 57
+          - 126
+        spawn8:
+          - 122
+          - 57
+          - 126
+        spawn9:
+          - 127
+          - 56
+          - 126
+        spawn10:
+          - 119
+          - 56
+          - 131
+        spawn11:
+          - 131
+          - 57
+          - 126
+        spawn12:
+          - 129
+          - 57
+          - 125

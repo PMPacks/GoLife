@@ -1,0 +1,51 @@
+# ××××× = ××××× = ×××××
+# Implactor Language
+# ^^ == ^^ == ^^ == ^^
+# Made by Zadezter
+# Language: Malay
+# ××××× = ××××× = ×××××
+---
+
+# Tips:
+# - Gunakan simbol "&" untuk membuat teks warna.
+# - Gunakan "/n" to membuat barisan baru.
+
+# Mesej Acara
+server-whitelisted-message: "&eMaaf, pelayan ini sedang dalam mod senarai putih!"
+join-notice-message: "&bPelayan ini sedang menjalankan Implactor!"
+clear-lagg-message: "&8&l(&a!&8)&r &aSemua entiti telah dibersihkan!"
+# Nama pemain berlaku selepas semua ini. - Diterjemahkan dari mesej FreeGamingHere
+join-message-operators: "&7(&6KAKITANGAN&7) &l&8[&a+&8]&r &a"
+join-message-players: "&l&8[&a+&8]&r &a"
+quit-message-operators: "&7(&6KAKITANGAN&7) &l&8[&c-&8]&r &c"
+quit-message-players: "&l&8[&c-&8]&r &c"
+death-message: "&cBergerak seperti sakit, stabil seperti kematian!"
+
+# Tips:
+# "death-money-message"
+# - ×INNOCENT× = Pemain yang menjadi mangsa.
+# - ×KILLER× = Pemain yang menjadi pembunuh dan dapatkan duit.
+# - ×WEAPON× = Tunjukkan nama pemain senjata dalam mesej.
+# - ×MONEY× = Tunjukkan pemain dapat $200 dalam permainan.
+death-money-message: "&6×KILLER× &ftelah bunuh &c×INNOCENT× &fmenggunakan &b×WEAPON× &fdan mendapat &a$×MONEY× &fdalam duit permainan!"
+
+fast-chatting-message: "&l&8(&6!&8)&r &6Sila tunggu sebelum berbual sekali lagi dalam beberapa saat!"
+anti-swearing-message: "&l&8(&6!&8)&r &6Janganlah mengucapkan kata-kata buruk di pelayan ini!"
+anti-advertising-message: "&l&8(&6!&8)&r &6Jangan mengiklankan pautan dalam pelayan!"
+anti-caps-message: "&l&8(&6!&8)&r &6Jangan menggunakan '&cHURUF BESAR&6' dalam pelayan!"
+bot-no-hit-damage-message: "&eAnda tidak boleh pukul saya! Saya adalah keras!"
+fly-disable-damage-message: "&cMod terbang anda telah dilumpuhkan kerana anda mengalami kesakitan!"
+
+# Tips:
+# "respawn-title" = Skrin Tajuk Mesej
+# "respawn-subtitle" = Skrin Sarikata Mesej
+respawn-title: "&l&cANDA TELAH MATI"
+respawn-subtitle: "&fAduh, apa yang berlaku?"
+
+# Perintah
+no-permission-message: "&cAnda tidak ada kebenaran untuk menggunakan perintah itu!"
+only-command-ingame-message: "Sila gunakan perintah dalam permainan pelayan!"
+# Ia akan mengambil masa yang banyak untuk letak segalanya.
+# Akan Datang
+
+...

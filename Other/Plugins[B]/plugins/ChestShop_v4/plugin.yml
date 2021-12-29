@@ -1,0 +1,17 @@
+name: ChestShop
+main: muqsit\chestshop\ChestShop
+api: [3.0.0, 4.0.0]
+version: 4
+author:
+- Muqsit
+- tim03we
+commands:
+  chestshop:
+    aliases: ["cs", "cshop"]
+permissions:
+  chestshop.command.opcmd:
+    default: op
+  chestshop.command.add:
+    default: op
+  chestshop.command.remove:
+    default: op

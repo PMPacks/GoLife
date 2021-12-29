@@ -1,0 +1,7 @@
+name: SClearLagg
+main: Sergey_Dertan\SClearLagg\SClearLaggMainFolder\SClearLaggMain
+api: 3.0.0
+load: STARTUP
+author: Sergey_Dertan
+description: Antilag for Server.
+version: 1.0

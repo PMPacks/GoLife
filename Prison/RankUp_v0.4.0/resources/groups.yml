@@ -1,0 +1,503 @@
+---
+groups:
+  B:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank B
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    members: []
+  C:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank C
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    members: []
+  D:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank D
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    members: []
+  E:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank E
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    members: []
+  F:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank F
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    members: []
+  G:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank G
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    members: []
+  H:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank H
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    members: []
+    
+  I:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank I
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    members: []
+  J:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank J
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    members: []
+  K:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank K
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    members: []
+  L:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank L
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+    members: []
+  M:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank M
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    members: []
+  "N":
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank N
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    members: []
+  O:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank O
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    members: []
+  P:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank P
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    members: []
+  Q:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank Q
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    members: []
+  R:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank R
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    members: []
+  S:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank S
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    members: []
+  T:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank T
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    members: []
+  U:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank U
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    - simplewarp.warp.u
+    members: []
+  V:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank V
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    - simplewarp.warp.u
+    - simplewarp.warp.v
+    members: []
+  W:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank W
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    - simplewarp.warp.u
+    - simplewarp.warp.v
+    - simplewarp.warp.w
+    members: []
+  X:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank X
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    - simplewarp.warp.u
+    - simplewarp.warp.v
+    - simplewarp.warp.w
+    - simplewarp.warp.x
+    members: []
+  "Y":
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank Y
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    - simplewarp.warp.u
+    - simplewarp.warp.v
+    - simplewarp.warp.w
+    - simplewarp.warp.x
+	- simplewarp.warp.y
+    members: []
+  Z:
+    entrance:
+    - sendmessage * §eNgười chơi §c{name} §eđã lên rank Z
+    exit: []
+    perms: 
+    - simplewarp.warp.a
+    - simplewarp.warp.b
+    - simplewarp.warp.c
+    - simplewarp.warp.d
+    - simplewarp.warp.e
+    - simplewarp.warp.f
+    - simplewarp.warp.g
+    - simplewarp.warp.h
+    - simplewarp.warp.i
+    - simplewarp.warp.j
+    - simplewarp.warp.k
+    - simplewarp.warp.l
+	- simplewarp.warp.m
+    - simplewarp.warp.n
+    - simplewarp.warp.o
+    - simplewarp.warp.p
+    - simplewarp.warp.q
+    - simplewarp.warp.r
+    - simplewarp.warp.s
+    - simplewarp.warp.t
+    - simplewarp.warp.u
+    - simplewarp.warp.v
+    - simplewarp.warp.w
+    - simplewarp.warp.x
+	- simplewarp.warp.y
+	- simplewarp.warp.z
+    members: []
+...

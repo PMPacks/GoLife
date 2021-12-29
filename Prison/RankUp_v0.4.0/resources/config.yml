@@ -1,0 +1,66 @@
+#   _______                       __        __    __
+#  /       \                     /  |      /  |  /  |
+#  $$$$$$$  |  ______   _______  $$ |   __ $$ |  $$ |  ______
+#  $$ |__$$ | /      \ /       \ $$ |  /  |$$ |  $$ | /      \
+#  $$    $$<  $$$$$$  |$$$$$$$  |$$ |_/$$/ $$ |  $$ |/$$$$$$  |
+#  $$$$$$$  | /    $$ |$$ |  $$ |$$   $$<  $$ |  $$ |$$ |  $$ |
+#  $$ |  $$ |/$$$$$$$ |$$ |  $$ |$$$$$$  \ $$ \__$$ |$$ |__$$ |
+#  $$ |  $$ |$$    $$ |$$ |  $$ |$$ | $$  |$$    $$/ $$    $$/
+#  $$/   $$/  $$$$$$$/ $$/   $$/ $$/   $$/  $$$$$$/  $$$$$$$/
+#                                                    $$ |
+#  The easy prison rankup plugin for PocketMine-MP   $$ |
+#                                                    $$/
+
+unleash-the-rankupdoesgroups: true
+  # If you set this to false RankUpDoesGroups won't be loaded.
+  # This means that you can't set it as your groupmanager.
+  # It is highly recommended not to change this
+preferred-economy: false
+  # Set your preferred economy
+  # rankup\\economy\\Economy and rankup\\economy\\PocketMoney are available by default
+  # Set to false for autoloading (only officially supported economys will autoload).
+preferred-groupmanager: "rankup\\permission\\RankUpDoesGroups"
+  # Set your preferred group manager
+  # rankup\\permission\\RankUpDoesGroups and rankup\\permission\\PurePerms are available.
+  # RankUpDoesGroups is a super barebones alternative for users who don't use PurePerms
+
+ranks: # Define all your ranks here
+  B: 2000
+  C: 4000
+  D: 8000
+  E: 12000
+  F: 16000
+  G: 24000
+  H: 32000
+  I: 40000
+  J: 48000
+  K: 54000
+  L: 62000
+  M: 70000
+  N: 78000
+  O: 86000
+  P: 92000
+  Q: 120000
+  R: 200000
+  S: 280000
+  T: 360000
+  U: 460000
+  V: 580000
+  W: 620000
+  X: 740000
+  Y: 860000
+  Z: 1200000
+  
+
+lang:
+  ranked-up-paid: "§eBạn đã lên rank %s"
+  ranked-up-free: "§eBạn đã lên được rank %s"
+  group-add-error-paid: "§cThật bại khi nâng rank. Phần thưởng được trả lại"
+  group-add-error-free: "§cThất bại khi nâng rank. Hãy thử lại sau"
+  need-more-money-1: "§cBạn hiện chưa đủ tiền"
+  need-more-money-2: "§cBạn cần %s để nâng rank"
+  missing-economy: "Không thể mua bây giờ"
+  have-max-rank: "§eRank của bạn đã cao nhất"
+  command-permission-error: "You don't have permission to rankup."
+
+

@@ -1,0 +1,19 @@
+---
+ 
+# If you want to add a paragraph then you only have to do 
+# \n at the text then the text one goes down for example: Test\nTest = Test 
+#                                                                     Test 
+# So if you do this twice (\n\n), there's an empty line between the example Test
+ 
+# Here you can switch the Description
+Title: "§bLuật§a Sky§cIS§dVN"
+ 
+# Here you can switch the content
+Content: "§c♦§b→§d Luật lệ của§e Member\n §c♦§b→§d Không hack,cheat,mod trong§d Server\n §c♦§b→§d Không cho ai đồ §2lưu ý : §6Mất đồ§a Staff§d không chịu trách nhiệm\n §c♦§b→§d Không gây war với bất kì ai\n §c♦§b→§c Không spawn trong§d Server\n §c♦§b→§d Không lừa đảo bất kì ai\n §c♥§c→§6 Luật lệ của§e Staff\n §c♥§c→§6 Không được lấy đồ§e Member\n §c♥§c→§6 Phải vote cho§d Server§6 thường ngày §aLưu ý §6phải vote trước 9 giờ tối\n §c♥§c→§6 Không được kick,ban,mute phải có lí do hợp lí\n §c♥§c→§6 Không được lợi dụng chức quyền\n §c♥§c→§6 Không được cho đồ§e Member §a♣§c→§e Hình phạt khi vi phạm của§6 Member\n §b→§c Hack,bug,cheat : ban vĩnh viễn\n §b→§c Gây war : lần 1 mute 30p lần 2 mute 1 giờ lần 3 mute vĩnh viễn\n §b→§c Xin đồ staff : lần 1 mute 2 giờ lần 2 mute 5 giờ lần 3 mute vĩnh viễn\n §b→§c Xin rank : lần 1 ban 30p lần 2 ban vĩnh viễn\n §b→§d Spawn : lần 1 mute 1 giờ lần 2 mute 3 giờ\n §a→§b Hình phạt khi vi phạm của§6 Staff\n §a→§b Cho đồ member : lần 1 : §7mất rank 2 giờ §1lần 2 §7mất rank 5 giờ §1lần 3 §7mất rank vĩnh viễn\n §a→§b Không vote trước 9 giờ : lần 1 §7mất rank 3 ngày §1lần 2 §7mất rank vĩnh viễn\n §a→§b Kick,ban,mute bừa bãi : §7mất rank\n §a→§b Lợi dụng chức quyền : §7mất rank vĩnh viễn\n §1-lấy đồ member : lần 1 §7mất rank 3 ngày §1lần 2 §7mất rank vĩnh viễn"
+ 
+# Here you can switch the text for the Button
+Button: "§d♦ §aĐã hiểu§d ♦"
+ 
+# Here you can add if the Player joins that then you have to set it to true
+open_at_first_join: "false"
+...

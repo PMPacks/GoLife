@@ -1,0 +1,10 @@
+name: ShopUI
+main: GuiShop\Main
+version: 1.0.0
+api: [3.0.0, 4.0.0]
+author: Nờ Cờ Dờ (NCD)
+description: ShopUI Việt Hóa 98% By Nờ Cờ Dờ (NCD)
+commands:
+ shop:
+  description: Mở giao diện shop!
+  aliases: [shopui]

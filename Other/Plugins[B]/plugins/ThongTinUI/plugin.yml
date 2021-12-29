@@ -1,0 +1,9 @@
+name: CachChoi
+main: Rules\Main
+version: 0.0.1
+api: 3.0.0
+author: ZenBosX
+commands:
+  thongtin:
+    usage: /thongtin
+    description: Cách chơi survival

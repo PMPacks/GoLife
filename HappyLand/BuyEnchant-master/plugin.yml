@@ -1,0 +1,13 @@
+---
+name: BuyEC
+version: 1.1
+main: Buyec\Main
+api: 3.0.0
+author: Phuongaz
+#edit by MamChamPlu
+commands:
+ buyec:
+  description: "Mua Pháp Thuật Nâng Cấp"
+ listec:
+  description: "Khu Xem ID Phép Thuật Nâng Cấp"
+...

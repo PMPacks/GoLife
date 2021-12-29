@@ -1,0 +1,51 @@
+# ××××× = ××××× = ×××××
+# Implactor Language
+# ^^ == ^^ == ^^ == ^^
+# Made by Zadezter
+# Language: English
+# ××××× = ××××× = ×××××
+---
+
+# Tips:
+# - Use symbol "&" to make color text.
+# - Use "/n" to create a new line.
+
+# Event Messages
+server-whitelisted-message: "&eSorry, this server is currently on whitelist mode!"
+join-notice-message: "&bThis server is running the Implactor!"
+clear-lagg-message: "&8&l(&a!&8)&r &aAll entities has cleared!"
+# The player name goes after all these. - FreeGamingHere
+join-message-operators: "&7(&6STAFF&7) &l&8[&a+&8]&r &a"
+join-message-players: "&l&8[&a+&8]&r &a"
+quit-message-operators: "&7(&6STAFF&7) &l&8[&c-&8]&r &c"
+quit-message-players: "&l&8[&c-&8]&r &c"
+death-message: "&cMove like pain, be steady like a death!"
+
+# Tips:
+# "death-money-message"
+# - ×INNOCENT× = A player who gets innocent.
+# - ×KILLER× = A player who being a killer and get money.
+# - ×WEAPON× = Shows a player's weapon name on message.
+# - ×MONEY× = Shows a player got $200 in-game money.
+death-money-message: "&6×KILLER× &fhas slained &c×INNOCENT× &fwith using &b×WEAPON× &fand got &a$×MONEY× &fin-game money!"
+
+fast-chatting-message: "&l&8(&6!&8)&r &6Please wait before you chat again in few seconds!"
+anti-swearing-message: "&l&8(&6!&8)&r &6Do not swearing a bad words on this server!"
+anti-advertising-message: "&l&8(&6!&8)&r &6Do not advertisting a links on this server!"
+anti-caps-message: "&l&8(&6!&8)&r &6Do not using a '&cCAPS&6' on this server!"
+bot-no-hit-damage-message: "&eYou cannot hit me. I'm invincible!"
+fly-disable-damage-message: "&cYour fly mode have been disabled because you suffered damaged!"
+
+# Tips:
+# "respawn-title" = Title screen message
+# "respawn-subtitle" = Subtitle screen message
+respawn-title: "&l&cYOU ARE DEAD"
+respawn-subtitle: "&fOuch, what just happend?"
+
+# Commands
+no-permission-message: "&cYou have no permission allowed to use the command!"
+only-command-ingame-message: "Please use Implactor command in-game server!"
+# It takes to long to put everything.
+# Coming Soon.
+
+...

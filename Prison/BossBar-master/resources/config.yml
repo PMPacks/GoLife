@@ -1,0 +1,9 @@
+---
+# BOSSBAR CONFIGURATION #
+# ===================== #
+head-message: "              §e§lA N G L E §6F A R M E R"
+changing-messages:
+ - "{100}§f  • §l§eCurrent Rank§b:§6 {prison_rank} §b•••>§e Next Rank§b:§6 {prison_rank_name} §b|§6 {prison_rank_price}§f •"
+change-speed: 8
+worlds: [Ile_A_Mobs]
+...
